@@ -18,6 +18,20 @@ $(document).ready(
         myPrev();
       }
     });
+    // //***************************************************************
+    // //bonus
+    // var pallino = $('.fas.fa-circle');
+    // pallino.click(
+    //   function(){
+    //     var pG = $('.fas.fa-circle');
+    //     $(this).
+    //   }
+    // );
+
+
+
+
+
   }
 );
 
